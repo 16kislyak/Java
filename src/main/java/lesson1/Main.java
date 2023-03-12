@@ -48,7 +48,7 @@ public class Main {
         int [] arr = new int[] {3,2,2,3};
         int val = 3;
 
-        for (int i = 0; i <  ; i++) {
+        for (int i = 0; i < 5 ; i++) {
 
         }
     }
