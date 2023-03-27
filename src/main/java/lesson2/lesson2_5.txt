@@ -1,0 +1,37 @@
+.idea
+pom.xml
+src
+target
+!Spring
+!Бестиарий Java.docx
+djvu
+HeadFirts. Java (2012).pdf
+Horstmann S - Big Java Early Objects - 2019.pdf
+Oracle Certified
+Sanaulla M - Java 9. Cookbook (2017).pdf
+Schildt H - A Beginner's Guide (SE 8).pdf
+Schildt H. - Java. The complete reference. Eleventh Edition (2019).pdf
+some doc
+Аллен Э. - Типичные ошибки проектирования.pdf
+Блинов И. - Java. Методы программирования (2013).pdf
+Блох Дж. - Java. Эффективное программирование - 2019.pdf
+Васильев А.  - Самоучитель Java с примерами.pdf
+Васильев. Листинг
+Гери Д. М. - Java Server Pages.pdf
+Гетц Б - Java Concurrency на практике.pdf
+Гонсалвес Э. - Изучаем Java EE 7.pdf
+Гослинг Дж. - Java SE 8.pdf
+Кейденхед Р. - Java за 24 часа - 2019.pdf
+Коузен К. - Современный Java. Рецепты.pdf
+МакГрат М. - Java программирование для начинающих.pdf
+Прохоренок Н. - JavaFX - 2020.pdf
+Флэнаган Д. -  Java в примерах. Справочник..pdf
+Хорстман К. - Java. Том 1. Основы (2019).pdf
+Хорстман К. - Java. Том 2 (2016).djvu
+Хорстман, Гери - JavaServer Facec.pdf
+Шилдт Г. - Java 8. Полное пособие.pdf
+Шилдт Г. - Java 8. Пособие для новичков.pdf
+Эванс Б. - Java. Новое поколение разработки (2014).pdf
+Эванс Б. - Java. Справочник - 2019.pdf
+Эванс Б. Java. Оптимизация программ.pdf
+Эккель Б. - Философия Java.pdf
